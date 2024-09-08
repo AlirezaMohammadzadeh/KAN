@@ -1,4 +1,3 @@
-```markdown
 # KAN (Kolmogorov-Arnold Networks) Implementation
 
 This repository contains an implementation of Kolmogorov-Arnold Networks (KAN) for digit classification using the MNIST dataset. The implementation includes the network architecture, data loading, training, and evaluation processes.
