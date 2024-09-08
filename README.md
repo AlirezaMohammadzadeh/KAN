@@ -105,6 +105,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The MNIST dataset is provided by Yann LeCun and colleagues.
 - PyTorch and torchvision libraries are used for deep learning and data handling.
-
-For any questions or suggestions, please open an issue or pull request in this repository.
-```
